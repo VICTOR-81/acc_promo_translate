@@ -59,7 +59,7 @@
                 </div>
                 <div class="after-opening_card swiper-slide">
                     <div class="t_wrapper9 after-opening_cardname">
-                    Training on declaration of individual entrepreneurs with low status
+                    Training on declaration of individual entrepreneurs with small status
                     </div>
                     <div class="t_wrapper18 after-opening_description">
                     To be sure that the declaration is filled out correctly and to avoid fines, use the services of Jara Accounting specialists.
